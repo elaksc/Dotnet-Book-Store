@@ -9,14 +9,3 @@
 - Static method
 - Extension method
 
-
-| Kavram              | Açıklama |
-| ------------------- | -------- |
-| **Drop-Database**   | ...      |
-| **Update-Database** | ...      |
-
-## Extension method örneği 
-
-```csharp
-
-```
